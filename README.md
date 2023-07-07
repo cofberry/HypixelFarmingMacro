@@ -5,7 +5,7 @@
 
 
 
-**Farming designs and schematics:**
+**Farms and Schematics:**
 Build the farms and use the schematics from our [docs](https://docs.google.com/document/d/1i34-eBUyrWe-3bQoXW-_pgKLstbM2wZI2lrAtvZPC4Q/edit)
 
 

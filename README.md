@@ -11,7 +11,7 @@ Build the farms and use the schematics from our [docs](https://docs.google.com/d
 
 
 
-**Official Discord**
+**Official Discord:**
 https://discord.gg/6mSHC2Xd9y
 
 

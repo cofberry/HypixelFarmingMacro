@@ -4,12 +4,18 @@
 OR download from [releases](https://github.com/cofberry/HypixelFarmingMacro/releases/tag/4.5.0)
 
 
+
+
 **Farming designs and schematics:**
 Build the farms and use the schematics from our [docs](https://docs.google.com/document/d/1i34-eBUyrWe-3bQoXW-_pgKLstbM2wZI2lrAtvZPC4Q/edit)
 
 
+
+
 **Official Discord**
 https://discord.gg/6mSHC2Xd9y
+
+
 
 
 More features in [releases](https://github.com/cofberry/HypixelFarmingMacro/releases/tag/4.5.0)

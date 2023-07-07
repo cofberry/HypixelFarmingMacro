@@ -1,3 +1,15 @@
+# Hypixel Skyblock Farming Macro
+
+Download:
+
+
+
+
+Farming designs and schematics:
+https://docs.google.com/document/d/1i34-eBUyrWe-3bQoXW-_pgKLstbM2wZI2lrAtvZPC4Q/edit
+
+
+
 https://discord.gg/6mSHC2Xd9y - official discord
 
 ![Github downloads](https://img.shields.io/github/downloads/JellyLabScripts/FarmHelper/total)

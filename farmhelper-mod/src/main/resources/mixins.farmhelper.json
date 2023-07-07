@@ -1,0 +1,34 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.jelly.farmhelper.mixins",
+  "refmap": "mixins.farmhelper.refmap.json",
+  "mixins": [
+    "block.IBlockAccessor",
+    "block.MixinBlockCocoa",
+    "block.MixinBlockCrops",
+    "block.MixinBlockMushroom",
+    "block.MixinBlockNetherWart",
+    "client.MinecraftMixin",
+    "client.MixinChunk",
+    "client.MixinInventoryPlayer",
+    "client.MixinSoundManager",
+    "fml.MixinFMLHandshakeMessage",
+    "gui.MixinGuiDisconnected",
+    "network.MixinNetworkManager",
+    "network.MixinNetworkManagerChInit"
+  ],
+  "client": [
+    "block.MixinBlockRendererDispatcher",
+    "client.MixinPlayerControllerMP",
+    "gui.MixinGuiContainer",
+    "gui.MixinGuiEditSign",
+    "gui.MixinGuiInventory",
+    "gui.MixinGuiMainMenu",
+    "gui.MixinGuiMultiplayer",
+    "gui.MixinGuiScreen",
+    "network.MixinNetHandlerPlayClient",
+    "render.MixinEffectRenderer",
+    "render.MixinInventoryEffectRenderer"
+  ]
+}

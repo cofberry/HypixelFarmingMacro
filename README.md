@@ -1,6 +1,6 @@
 # Hypixel Skyblock Farming Macro
 
-**Download:** Setup and build yourself: [1.8.9 ForgeTemplate](https://github.com/DxxxxY/1.8.9ForgeTemplate) OR download from [releases](https://github.com/cofberry/HypixelFarmingMacro/releases/tag/4.5.0)
+**Download:** Setup and build yourself with: [1.8.9 ForgeTemplate](https://github.com/DxxxxY/1.8.9ForgeTemplate) OR download from [releases](https://github.com/cofberry/HypixelFarmingMacro/releases/tag/4.5.0)
 
 
 

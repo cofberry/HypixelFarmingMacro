@@ -17,9 +17,7 @@ https://discord.gg/6mSHC2Xd9y
 
 
 
-More features in [releases](https://github.com/cofberry/HypixelFarmingMacro/releases/tag/4.5.0)
-
-Works after tp removal!
+More features in [releases](https://github.com/cofberry/HypixelFarmingMacro/releases/tag/4.5.0) and works after tp removal!
 
 Pull requests are highly appreciated, and if you open a good one, you could earn the contributor role on the Discord server and gain unique role perks.
 

@@ -22,4 +22,4 @@ More features in [releases](https://github.com/cofberry/HypixelFarmingMacro/rele
 Pull requests are highly appreciated, and if you open a good one, you could earn the contributor role on the Discord server and gain unique role perks.
 
  
-[Github Downloads](https://img.shields.io/badge/downloads-2k-brightgreen)
+![Github Downloads](https://img.shields.io/badge/downloads-2k-brightgreen)
